@@ -1,2 +1,2 @@
 # NSF_preprint
-Preprint of "Redshift Evolution of Higher-order Correlations in Cosmic Large-scale Structure with Minkowski Functionals" for MNRAS - in prep.
+Preprint of Sullivan et al. 2017, updated to reflect the arXiv version
